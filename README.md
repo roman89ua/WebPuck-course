@@ -1,1 +1,1 @@
-# WebPuck-course
+# Webpack-course
