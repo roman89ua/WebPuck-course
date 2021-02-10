@@ -1,0 +1,35 @@
+{
+  "name": "webpack-course",
+  "version": "1.0.0",
+  "description": "webpack course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman89ua/Webpack-course.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "webpack"
+  ],
+  "author": "Roman Kostiuk <roman89ua@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman89ua/Webpack-course/issues"
+  },
+  "homepage": "https://github.com/roman89ua/Webpack-course#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^5.0.2",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.0.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

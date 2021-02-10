@@ -1,0 +1,15 @@
+.container {
+    padding-top: 32px;
+    max-width: 1000px;
+    margin: 0 auto;
+    color: dodgerblue;
+    text-align: center;
+}
+
+.logo {
+    background-image: url("../assets/webpack-logo.png");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
